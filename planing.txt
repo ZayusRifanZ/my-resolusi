@@ -1,4 +1,4 @@
 Rencana Kedepannya
 - Belajar html & css selama sebulan
 - belajar JS dan DOM
-- dll
+- belajar react js 
